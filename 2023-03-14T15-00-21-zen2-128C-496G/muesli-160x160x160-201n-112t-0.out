@@ -1,403 +1,201 @@
-Only one process no need to sync MPI
-0.0183495 / 0.0183186
-Only one process no need to sync MPI
-0.0121147 / 0.0121112
-Only one process no need to sync MPI
-0.0124028 / 0.0124022
-Only one process no need to sync MPI
-0.0123569 / 0.0123564
-Only one process no need to sync MPI
-0.0122049 / 0.0122042
-Only one process no need to sync MPI
-0.0123296 / 0.0123291
-Only one process no need to sync MPI
-0.0127932 / 0.0127926
-Only one process no need to sync MPI
-0.0122932 / 0.0122926
-Only one process no need to sync MPI
-0.0122362 / 0.0122352
-Only one process no need to sync MPI
-0.0123027 / 0.012302
-Only one process no need to sync MPI
-0.0122213 / 0.0122208
-Only one process no need to sync MPI
-0.0122334 / 0.0122327
-Only one process no need to sync MPI
-0.0121939 / 0.0121935
-Only one process no need to sync MPI
-0.012284 / 0.0122831
-Only one process no need to sync MPI
-0.0122268 / 0.0122262
-Only one process no need to sync MPI
-0.0123104 / 0.0123098
-Only one process no need to sync MPI
-0.0121959 / 0.0121952
-Only one process no need to sync MPI
-0.0122748 / 0.0122743
-Only one process no need to sync MPI
-0.0122272 / 0.0122265
-Only one process no need to sync MPI
-0.0122608 / 0.0122603
-Only one process no need to sync MPI
-0.0122696 / 0.0122691
-Only one process no need to sync MPI
-0.012287 / 0.0122862
-Only one process no need to sync MPI
-0.012214 / 0.0122131
-Only one process no need to sync MPI
-0.0122961 / 0.0122956
-Only one process no need to sync MPI
-0.0121986 / 0.0121977
-Only one process no need to sync MPI
-0.0122718 / 0.0122713
-Only one process no need to sync MPI
-0.0122611 / 0.0122604
-Only one process no need to sync MPI
-0.0122544 / 0.0122538
-Only one process no need to sync MPI
-0.0122439 / 0.0122431
-Only one process no need to sync MPI
-0.012248 / 0.0122474
-Only one process no need to sync MPI
-0.0122626 / 0.0122622
-Only one process no need to sync MPI
-0.0122777 / 0.0122774
-Only one process no need to sync MPI
-0.0122356 / 0.0122348
-Only one process no need to sync MPI
-0.0122988 / 0.0122982
-Only one process no need to sync MPI
-0.0122039 / 0.0122034
-Only one process no need to sync MPI
-0.0123043 / 0.0123037
-Only one process no need to sync MPI
-0.0122706 / 0.0122696
-Only one process no need to sync MPI
-0.0123006 / 0.0122998
-Only one process no need to sync MPI
-0.0122566 / 0.0122558
-Only one process no need to sync MPI
-0.0123346 / 0.0123338
-Only one process no need to sync MPI
-0.0122305 / 0.0122296
-Only one process no need to sync MPI
-0.0122798 / 0.0122793
-Only one process no need to sync MPI
-0.0122542 / 0.0122537
-Only one process no need to sync MPI
-0.0122859 / 0.0122852
-Only one process no need to sync MPI
-0.0122574 / 0.0122565
-Only one process no need to sync MPI
-0.0123266 / 0.012326
-Only one process no need to sync MPI
-0.0123048 / 0.0123043
-Only one process no need to sync MPI
-0.0122712 / 0.0122704
-Only one process no need to sync MPI
-0.0123012 / 0.0123009
-Only one process no need to sync MPI
-0.0123274 / 0.0123267
-Only one process no need to sync MPI
-0.01225 / 0.0122493
-Only one process no need to sync MPI
-0.0123592 / 0.0123586
-Only one process no need to sync MPI
-0.0122558 / 0.0122551
-Only one process no need to sync MPI
-0.0123298 / 0.0123288
-Only one process no need to sync MPI
-0.0122918 / 0.012291
-Only one process no need to sync MPI
-0.0123657 / 0.0123649
-Only one process no need to sync MPI
-0.0122521 / 0.0122514
-Only one process no need to sync MPI
-0.0123001 / 0.0122992
-Only one process no need to sync MPI
-0.012708 / 0.0127072
-Only one process no need to sync MPI
-0.012316 / 0.0123155
-Only one process no need to sync MPI
-0.0122953 / 0.0122946
-Only one process no need to sync MPI
-0.0151622 / 0.0151614
-Only one process no need to sync MPI
-0.0191138 / 0.019113
-Only one process no need to sync MPI
-0.0121919 / 0.0121911
-Only one process no need to sync MPI
-0.0121762 / 0.0121755
-Only one process no need to sync MPI
-0.012229 / 0.0122283
-Only one process no need to sync MPI
-0.0121315 / 0.012131
-Only one process no need to sync MPI
-0.0122541 / 0.0122533
-Only one process no need to sync MPI
-0.0121511 / 0.0121505
-Only one process no need to sync MPI
-0.0121458 / 0.0121451
-Only one process no need to sync MPI
-0.0122078 / 0.012207
-Only one process no need to sync MPI
-0.0122886 / 0.012288
-Only one process no need to sync MPI
-0.0122271 / 0.0122265
-Only one process no need to sync MPI
-0.0122311 / 0.0122304
-Only one process no need to sync MPI
-0.0122358 / 0.012235
-Only one process no need to sync MPI
-0.0121902 / 0.0121899
-Only one process no need to sync MPI
-0.0122276 / 0.0122272
-Only one process no need to sync MPI
-0.0121718 / 0.012171
-Only one process no need to sync MPI
-0.0138927 / 0.0138919
-Only one process no need to sync MPI
-0.0100635 / 0.0100625
-Only one process no need to sync MPI
-0.0113914 / 0.0113908
-Only one process no need to sync MPI
-0.0116966 / 0.0116954
-Only one process no need to sync MPI
-0.011875 / 0.0118739
-Only one process no need to sync MPI
-0.0119738 / 0.0119731
-Only one process no need to sync MPI
-0.0119372 / 0.0119365
-Only one process no need to sync MPI
-0.0123072 / 0.0123066
-Only one process no need to sync MPI
-0.014861 / 0.0148603
-Only one process no need to sync MPI
-0.0120081 / 0.0120074
-Only one process no need to sync MPI
-0.0119758 / 0.0119751
-Only one process no need to sync MPI
-0.012077 / 0.0120761
-Only one process no need to sync MPI
-0.0119531 / 0.0119525
-Only one process no need to sync MPI
-0.0120788 / 0.0120782
-Only one process no need to sync MPI
-0.0120435 / 0.0120429
-Only one process no need to sync MPI
-0.012151 / 0.0121503
-Only one process no need to sync MPI
-0.011965 / 0.0119644
-Only one process no need to sync MPI
-0.01198 / 0.0119792
-Only one process no need to sync MPI
-0.0118864 / 0.0118859
-Only one process no need to sync MPI
-0.012019 / 0.0120183
-Only one process no need to sync MPI
-0.0119251 / 0.0119245
-Only one process no need to sync MPI
-0.0119658 / 0.011965
-Only one process no need to sync MPI
-0.0119476 / 0.0119469
-Only one process no need to sync MPI
-0.0121731 / 0.0121722
-Only one process no need to sync MPI
-0.01216 / 0.0121595
-Only one process no need to sync MPI
-0.0120826 / 0.0120817
-Only one process no need to sync MPI
-0.0120164 / 0.0120155
-Only one process no need to sync MPI
-0.0120476 / 0.0120469
-Only one process no need to sync MPI
-0.012014 / 0.0120133
-Only one process no need to sync MPI
-0.0121059 / 0.0121052
-Only one process no need to sync MPI
-0.0119613 / 0.0119605
-Only one process no need to sync MPI
-0.0120141 / 0.0120135
-Only one process no need to sync MPI
-0.0119329 / 0.0119324
-Only one process no need to sync MPI
-0.0120723 / 0.0120715
-Only one process no need to sync MPI
-0.0120837 / 0.012083
-Only one process no need to sync MPI
-0.0120988 / 0.0120981
-Only one process no need to sync MPI
-0.0119306 / 0.0119301
-Only one process no need to sync MPI
-0.0122885 / 0.012288
-Only one process no need to sync MPI
-0.0118715 / 0.0118706
-Only one process no need to sync MPI
-0.0121145 / 0.0121138
-Only one process no need to sync MPI
-0.0119362 / 0.0119357
-Only one process no need to sync MPI
-0.0120909 / 0.0120901
-Only one process no need to sync MPI
-0.0119431 / 0.0119424
-Only one process no need to sync MPI
-0.0120478 / 0.0120472
-Only one process no need to sync MPI
-0.0119598 / 0.0119591
-Only one process no need to sync MPI
-0.0122408 / 0.0122398
-Only one process no need to sync MPI
-0.0119923 / 0.0119917
-Only one process no need to sync MPI
-0.0121372 / 0.0121364
-Only one process no need to sync MPI
-0.011967 / 0.0119665
-Only one process no need to sync MPI
-0.0121286 / 0.0121279
-Only one process no need to sync MPI
-0.0119766 / 0.0119757
-Only one process no need to sync MPI
-0.0120551 / 0.0120547
-Only one process no need to sync MPI
-0.0119817 / 0.0119812
-Only one process no need to sync MPI
-0.0120612 / 0.0120606
-Only one process no need to sync MPI
-0.0119622 / 0.0119616
-Only one process no need to sync MPI
-0.0120763 / 0.0120757
-Only one process no need to sync MPI
-0.012001 / 0.0120001
-Only one process no need to sync MPI
-0.0121094 / 0.0121088
-Only one process no need to sync MPI
-0.0120067 / 0.0120058
-Only one process no need to sync MPI
-0.0121019 / 0.0121008
-Only one process no need to sync MPI
-0.0119855 / 0.0119849
-Only one process no need to sync MPI
-0.0120476 / 0.0120469
-Only one process no need to sync MPI
-0.0119584 / 0.0119578
-Only one process no need to sync MPI
-0.0121087 / 0.0121081
-Only one process no need to sync MPI
-0.012025 / 0.0120245
-Only one process no need to sync MPI
-0.0120484 / 0.0120477
-Only one process no need to sync MPI
-0.0120093 / 0.0120085
-Only one process no need to sync MPI
-0.0120279 / 0.0120275
-Only one process no need to sync MPI
-0.0120011 / 0.0120005
-Only one process no need to sync MPI
-0.0120467 / 0.012046
-Only one process no need to sync MPI
-0.0119887 / 0.0119884
-Only one process no need to sync MPI
-0.0120347 / 0.012034
-Only one process no need to sync MPI
-0.0120083 / 0.0120077
-Only one process no need to sync MPI
-0.0122098 / 0.0122093
-Only one process no need to sync MPI
-0.0121135 / 0.0121129
-Only one process no need to sync MPI
-0.0123064 / 0.0123056
-Only one process no need to sync MPI
-0.0120162 / 0.0120156
-Only one process no need to sync MPI
-0.0122989 / 0.0122983
-Only one process no need to sync MPI
-0.0121451 / 0.0121442
-Only one process no need to sync MPI
-0.0121678 / 0.0121672
-Only one process no need to sync MPI
-0.0120493 / 0.0120486
-Only one process no need to sync MPI
-0.0121168 / 0.0121162
-Only one process no need to sync MPI
-0.0120109 / 0.01201
-Only one process no need to sync MPI
-0.012157 / 0.0121562
-Only one process no need to sync MPI
-0.0120133 / 0.0120125
-Only one process no need to sync MPI
-0.0121481 / 0.0121475
-Only one process no need to sync MPI
-0.0120758 / 0.0120752
-Only one process no need to sync MPI
-0.0122765 / 0.0122758
-Only one process no need to sync MPI
-0.0121774 / 0.0121769
-Only one process no need to sync MPI
-0.0122139 / 0.0122133
-Only one process no need to sync MPI
-0.0121103 / 0.0121094
-Only one process no need to sync MPI
-0.0121522 / 0.0121514
-Only one process no need to sync MPI
-0.0120758 / 0.012075
-Only one process no need to sync MPI
-0.0121068 / 0.0121061
-Only one process no need to sync MPI
-0.0119902 / 0.0119896
-Only one process no need to sync MPI
-0.0121152 / 0.0121145
-Only one process no need to sync MPI
-0.0120394 / 0.0120388
-Only one process no need to sync MPI
-0.0121658 / 0.012165
-Only one process no need to sync MPI
-0.0120711 / 0.0120702
-Only one process no need to sync MPI
-0.012106 / 0.012105
-Only one process no need to sync MPI
-0.0119734 / 0.0119727
-Only one process no need to sync MPI
-0.0121604 / 0.0121593
-Only one process no need to sync MPI
-0.0121231 / 0.0121226
-Only one process no need to sync MPI
-0.0121286 / 0.012128
-Only one process no need to sync MPI
-0.0121449 / 0.0121442
-Only one process no need to sync MPI
-0.0123845 / 0.0123836
-Only one process no need to sync MPI
-0.0123524 / 0.0123518
-Only one process no need to sync MPI
-0.012333 / 0.0123322
-Only one process no need to sync MPI
-0.0122121 / 0.0122116
-Only one process no need to sync MPI
-0.0123645 / 0.0123637
-Only one process no need to sync MPI
-0.0121863 / 0.0121854
-Only one process no need to sync MPI
-0.0123675 / 0.0123668
-Only one process no need to sync MPI
-0.0123445 / 0.0123442
-Only one process no need to sync MPI
-0.0123033 / 0.0123026
-Only one process no need to sync MPI
-0.01222 / 0.0122194
-Only one process no need to sync MPI
-0.0122909 / 0.0122902
-Only one process no need to sync MPI
-0.012208 / 0.0122072
-Only one process no need to sync MPI
-0.0124037 / 0.0124031
-Only one process no need to sync MPI
-0.0123785 / 0.0123777
-Only one process no need to sync MPI
-0.012479 / 0.0124783
-Only one process no need to sync MPI
-0.0122267 / 0.0122261
-Only one process no need to sync MPI
-0.0123037 / 0.0123033
-Only one process no need to sync MPI
-0.0121595 / 0.012159
-
+0.0183495 ; 0.0183186
+0.0121147 ; 0.0121112
+0.0124028 ; 0.0124022
+0.0123569 ; 0.0123564
+0.0122049 ; 0.0122042
+0.0123296 ; 0.0123291
+0.0127932 ; 0.0127926
+0.0122932 ; 0.0122926
+0.0122362 ; 0.0122352
+0.0123027 ; 0.012302
+0.0122213 ; 0.0122208
+0.0122334 ; 0.0122327
+0.0121939 ; 0.0121935
+0.012284 ; 0.0122831
+0.0122268 ; 0.0122262
+0.0123104 ; 0.0123098
+0.0121959 ; 0.0121952
+0.0122748 ; 0.0122743
+0.0122272 ; 0.0122265
+0.0122608 ; 0.0122603
+0.0122696 ; 0.0122691
+0.012287 ; 0.0122862
+0.012214 ; 0.0122131
+0.0122961 ; 0.0122956
+0.0121986 ; 0.0121977
+0.0122718 ; 0.0122713
+0.0122611 ; 0.0122604
+0.0122544 ; 0.0122538
+0.0122439 ; 0.0122431
+0.012248 ; 0.0122474
+0.0122626 ; 0.0122622
+0.0122777 ; 0.0122774
+0.0122356 ; 0.0122348
+0.0122988 ; 0.0122982
+0.0122039 ; 0.0122034
+0.0123043 ; 0.0123037
+0.0122706 ; 0.0122696
+0.0123006 ; 0.0122998
+0.0122566 ; 0.0122558
+0.0123346 ; 0.0123338
+0.0122305 ; 0.0122296
+0.0122798 ; 0.0122793
+0.0122542 ; 0.0122537
+0.0122859 ; 0.0122852
+0.0122574 ; 0.0122565
+0.0123266 ; 0.012326
+0.0123048 ; 0.0123043
+0.0122712 ; 0.0122704
+0.0123012 ; 0.0123009
+0.0123274 ; 0.0123267
+0.01225 ; 0.0122493
+0.0123592 ; 0.0123586
+0.0122558 ; 0.0122551
+0.0123298 ; 0.0123288
+0.0122918 ; 0.012291
+0.0123657 ; 0.0123649
+0.0122521 ; 0.0122514
+0.0123001 ; 0.0122992
+0.012708 ; 0.0127072
+0.012316 ; 0.0123155
+0.0122953 ; 0.0122946
+0.0151622 ; 0.0151614
+0.0191138 ; 0.019113
+0.0121919 ; 0.0121911
+0.0121762 ; 0.0121755
+0.012229 ; 0.0122283
+0.0121315 ; 0.012131
+0.0122541 ; 0.0122533
+0.0121511 ; 0.0121505
+0.0121458 ; 0.0121451
+0.0122078 ; 0.012207
+0.0122886 ; 0.012288
+0.0122271 ; 0.0122265
+0.0122311 ; 0.0122304
+0.0122358 ; 0.012235
+0.0121902 ; 0.0121899
+0.0122276 ; 0.0122272
+0.0121718 ; 0.012171
+0.0138927 ; 0.0138919
+0.0100635 ; 0.0100625
+0.0113914 ; 0.0113908
+0.0116966 ; 0.0116954
+0.011875 ; 0.0118739
+0.0119738 ; 0.0119731
+0.0119372 ; 0.0119365
+0.0123072 ; 0.0123066
+0.014861 ; 0.0148603
+0.0120081 ; 0.0120074
+0.0119758 ; 0.0119751
+0.012077 ; 0.0120761
+0.0119531 ; 0.0119525
+0.0120788 ; 0.0120782
+0.0120435 ; 0.0120429
+0.012151 ; 0.0121503
+0.011965 ; 0.0119644
+0.01198 ; 0.0119792
+0.0118864 ; 0.0118859
+0.012019 ; 0.0120183
+0.0119251 ; 0.0119245
+0.0119658 ; 0.011965
+0.0119476 ; 0.0119469
+0.0121731 ; 0.0121722
+0.01216 ; 0.0121595
+0.0120826 ; 0.0120817
+0.0120164 ; 0.0120155
+0.0120476 ; 0.0120469
+0.012014 ; 0.0120133
+0.0121059 ; 0.0121052
+0.0119613 ; 0.0119605
+0.0120141 ; 0.0120135
+0.0119329 ; 0.0119324
+0.0120723 ; 0.0120715
+0.0120837 ; 0.012083
+0.0120988 ; 0.0120981
+0.0119306 ; 0.0119301
+0.0122885 ; 0.012288
+0.0118715 ; 0.0118706
+0.0121145 ; 0.0121138
+0.0119362 ; 0.0119357
+0.0120909 ; 0.0120901
+0.0119431 ; 0.0119424
+0.0120478 ; 0.0120472
+0.0119598 ; 0.0119591
+0.0122408 ; 0.0122398
+0.0119923 ; 0.0119917
+0.0121372 ; 0.0121364
+0.011967 ; 0.0119665
+0.0121286 ; 0.0121279
+0.0119766 ; 0.0119757
+0.0120551 ; 0.0120547
+0.0119817 ; 0.0119812
+0.0120612 ; 0.0120606
+0.0119622 ; 0.0119616
+0.0120763 ; 0.0120757
+0.012001 ; 0.0120001
+0.0121094 ; 0.0121088
+0.0120067 ; 0.0120058
+0.0121019 ; 0.0121008
+0.0119855 ; 0.0119849
+0.0120476 ; 0.0120469
+0.0119584 ; 0.0119578
+0.0121087 ; 0.0121081
+0.012025 ; 0.0120245
+0.0120484 ; 0.0120477
+0.0120093 ; 0.0120085
+0.0120279 ; 0.0120275
+0.0120011 ; 0.0120005
+0.0120467 ; 0.012046
+0.0119887 ; 0.0119884
+0.0120347 ; 0.012034
+0.0120083 ; 0.0120077
+0.0122098 ; 0.0122093
+0.0121135 ; 0.0121129
+0.0123064 ; 0.0123056
+0.0120162 ; 0.0120156
+0.0122989 ; 0.0122983
+0.0121451 ; 0.0121442
+0.0121678 ; 0.0121672
+0.0120493 ; 0.0120486
+0.0121168 ; 0.0121162
+0.0120109 ; 0.01201
+0.012157 ; 0.0121562
+0.0120133 ; 0.0120125
+0.0121481 ; 0.0121475
+0.0120758 ; 0.0120752
+0.0122765 ; 0.0122758
+0.0121774 ; 0.0121769
+0.0122139 ; 0.0122133
+0.0121103 ; 0.0121094
+0.0121522 ; 0.0121514
+0.0120758 ; 0.012075
+0.0121068 ; 0.0121061
+0.0119902 ; 0.0119896
+0.0121152 ; 0.0121145
+0.0120394 ; 0.0120388
+0.0121658 ; 0.012165
+0.0120711 ; 0.0120702
+0.012106 ; 0.012105
+0.0119734 ; 0.0119727
+0.0121604 ; 0.0121593
+0.0121231 ; 0.0121226
+0.0121286 ; 0.012128
+0.0121449 ; 0.0121442
+0.0123845 ; 0.0123836
+0.0123524 ; 0.0123518
+0.012333 ; 0.0123322
+0.0122121 ; 0.0122116
+0.0123645 ; 0.0123637
+0.0121863 ; 0.0121854
+0.0123675 ; 0.0123668
+0.0123445 ; 0.0123442
+0.0123033 ; 0.0123026
+0.01222 ; 0.0122194
+0.0122909 ; 0.0122902
+0.012208 ; 0.0122072
+0.0124037 ; 0.0124031
+0.0123785 ; 0.0123777
+0.012479 ; 0.0124783
+0.0122267 ; 0.0122261
+0.0123037 ; 0.0123033
+0.0121595 ; 0.012159
